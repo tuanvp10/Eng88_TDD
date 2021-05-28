@@ -10,4 +10,4 @@ class SimpleCalc:
         return int1 * int2
 
     def divide(self, int1, int2):
-        return int1 / int2
+        return int1 / int
